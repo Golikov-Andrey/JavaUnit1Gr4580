@@ -5,14 +5,76 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
 
-         task1();
-         task2();
-         task3();
-         String[] lines = { "dom", "domovoy", "domashniy" };
-         int prefixLen = findPrefix(lines);
-         System.out.println(prefixLen);
-        task4();
+        //  task1();
+        //  task2();
+        //  task3();
+        //  String[] lines = { "dom", "domovoy", "domashniy" };
+        //  int prefixLen = findPrefix(lines);
+        //  System.out.println(prefixLen);
+        //  task4();
+         //task5();
+         task8();
+
+        
     }
+
+
+    private static void task8() {
+        int[] num = {100,7,3,6,5,6};
+        System.out.println(meanIndex(num));
+    }
+
+    private static int meanIndex(int[] num) {
+        int index = 1;
+        while(lowSum(num,index)<higSum(num, index))
+        {
+            index++;
+        }
+        if(lowSum(num,index)==higSum(num, index))
+        {
+            return index;
+        }
+        else{
+        return -1;
+        }
+    }
+
+
+    private static int higSum(int[] num, int index) {
+        int sum = 0;
+        for(int i=num.length-1;i>index;i--)
+        {
+            sum+=num[i];
+        }
+        return sum;
+    }
+
+
+    private static int lowSum(int[] num, int index) {
+       
+
+        int sum = 0;
+        for(int i=0;i<index;i++)
+        {
+            sum+=num[i];
+        }
+        return sum;
+    }
+
+
+    private static void task5() {
+        String sourceLn = "Welcome To Java Cource";
+        String[] splitLn = sourceLn.split(" ");
+        String outLn = "";
+        for(int i = splitLn.length-1; i>=0; i--)
+        {
+            outLn = outLn+splitLn[i]+" ";
+        }
+        System.out.println(sourceLn);
+        System.out.println(outLn);
+    }
+
+
 
     private static void task4() {
         // Напишите метод, который находит самую длинную строку общего префикса среди

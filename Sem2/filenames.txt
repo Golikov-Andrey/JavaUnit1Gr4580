@@ -1,0 +1,9 @@
+.vscode
+bin
+file.txt
+filenames.txt
+lib
+output.txt
+README.md
+src
+Test.txt
