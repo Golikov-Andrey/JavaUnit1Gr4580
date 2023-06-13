@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117753</millis>
+  <sequence>0</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 45</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117790</millis>
+  <sequence>1</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 7</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117790</millis>
+  <sequence>2</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 14</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117790</millis>
+  <sequence>3</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 99</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117790</millis>
+  <sequence>4</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 1</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117790</millis>
+  <sequence>5</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 0</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117790</millis>
+  <sequence>6</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>509 - 3</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117790</millis>
+  <sequence>7</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>509 - 78</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117790</millis>
+  <sequence>8</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>509 - 22</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117790</millis>
+  <sequence>9</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 7</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117790</millis>
+  <sequence>10</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 14</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117791</millis>
+  <sequence>11</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>99 - 1</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117791</millis>
+  <sequence>12</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>99 - 0</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117791</millis>
+  <sequence>13</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 3</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117791</millis>
+  <sequence>14</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 78</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117791</millis>
+  <sequence>15</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>100 - 22</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117791</millis>
+  <sequence>16</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>11 - 7</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117792</millis>
+  <sequence>17</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 1</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117792</millis>
+  <sequence>18</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 0</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117792</millis>
+  <sequence>19</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>99 - 3</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117792</millis>
+  <sequence>20</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>99 - 78</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117792</millis>
+  <sequence>21</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>99 - 22</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117792</millis>
+  <sequence>22</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>14 - 1</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117792</millis>
+  <sequence>23</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>14 - 0</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117793</millis>
+  <sequence>24</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 3</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117793</millis>
+  <sequence>25</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>78 - 22</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117793</millis>
+  <sequence>26</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>11 - 1</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117793</millis>
+  <sequence>27</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>11 - 0</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117795</millis>
+  <sequence>28</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>14 - 3</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117795</millis>
+  <sequence>29</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>45 - 22</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117795</millis>
+  <sequence>30</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>7 - 1</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117795</millis>
+  <sequence>31</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>7 - 0</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117795</millis>
+  <sequence>32</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>11 - 3</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117795</millis>
+  <sequence>33</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>1 - 0</message>
+</record>
+<record>
+  <date>2023-06-13T02:21:57</date>
+  <millis>1686612117795</millis>
+  <sequence>34</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Test</class>
+  <method>BubbleSortWithLog</method>
+  <thread>1</thread>
+  <message>7 - 3</message>
+</record>
+</log>

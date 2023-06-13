@@ -30,13 +30,15 @@ public class App {
         // Task4.writeToFile("file.txt", str);
 
 
-        try {
-            String[] fldrCnt = Task5.getCrntFldrCnts();
-            Task5.wrtArrToFile(fldrCnt, "filenames.txt");
-            Task5.dtrmFileExts(fldrCnt);
-        } catch (IOException e) {
-            Task5.wrtExcptToLogFile(e, "log.txt");
-        }
+        // try {
+        //     String[] fldrCnt = Task5.getCrntFldrCnts();
+        //     Task5.wrtArrToFile(fldrCnt, "filenames.txt");
+        //     Task5.dtrmFileExts(fldrCnt);
+        // } catch (IOException e) {
+        //     Task5.wrtExcptToLogFile(e, "log.txt");
+        // }
+
+        Test.Logging();
 
         //use db.main select * from student where name='Ivanov' and country='Russia'
     }
