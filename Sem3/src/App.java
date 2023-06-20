@@ -25,4 +25,9 @@ public class App {
 
        // System.out.println("Hello, World!");
     }
+
+
+//     ntel(R) Pentium(R) CPU  N3540  @ 2.16GHz   2.16 GHz
+// Win pro 20H2 (сборка 19042.572 )x64 - Ноутбук LenovoB50
+//  микрофоны - все работают как через трубу)
 }
