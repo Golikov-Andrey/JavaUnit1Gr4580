@@ -25,16 +25,25 @@ public class App {
         // System.out.println(BracketTest.Tester.validation(open, close, "<{a}+{(d*3)}>"));
         // System.out.println(BracketTest.Tester.validation(open, close, "{a+]}{(d*3)} "));
 
-        String line = "Мороз и солнце день чудесный Еще ты дремлешь друг прелестный Пора красавица проснись";
-        String[] sLine = line.split(" ");
-        HashMap<String,Integer> map = new HashMap<>();
-        for(String s : sLine)
-        {
-            map.put(s, s.length());
-        }
+        // String line = "Мороз и солнце день чудесный Еще ты дремлешь друг прелестный Пора красавица проснись";
+        // String[] sLine = line.split(" ");
+        // HashMap<String,Integer> map = new HashMap<>();
+        // for(String s : sLine)
+        // {
+        //     map.put(s, s.length());
+        // }
 
-        TreeMap sortMap = TreeMapTest.Test.sortHashMap(map);
-        sortMap.entrySet().forEach(System.out::println);
-             
+        // TreeMap sortMap = TreeMapTest.Test.sortHashMap(map);
+        // sortMap.entrySet().forEach(s->System.out.println(s));
+        // sortMap.entrySet().forEach(System.out::println);
+
+        System.out.println(RomNumConv.Converter.arabicToRoman(2023));
+        System.out.println(RomNumConv.Converter.romanToArabic("MMXXIII"));
+            
+    }
+
+    public void ggg(String s)
+    {
+        System.out.println(s);
     }
 }
